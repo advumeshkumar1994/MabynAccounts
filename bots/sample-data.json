@@ -1,0 +1,24 @@
+{
+  "leads": [
+    {
+      "id": "demo-1",
+      "firstName": "Asha",
+      "interest": "MABYN subscription",
+      "consentToContact": false
+    }
+  ],
+  "campaigns": [
+    {
+      "name": "Demo Campaign",
+      "spend": 1500,
+      "clicks": 125,
+      "conversions": 5
+    }
+  ],
+  "stories": [
+    {
+      "title": "The Hidden Letter",
+      "genre": "Suspense"
+    }
+  ]
+}
